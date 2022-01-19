@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Altay Avci
-- 👀 I’m interested in data science, computational physics, machine learnnig and AI.
+- 👀 I’m interested in data science, computational physics, machine learning and AI.
 - 🌱 I’m currently learning AI
 - 📫 How to reach me from my mail adress: altayavci2000@gmail.com
 
